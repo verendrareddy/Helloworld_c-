@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#code practice\\HelloWorldApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B34EB6A4-B48C-42BC-91AC-9C64D5CD154C}|HelloWorldApplication.csproj|d:\\c#code practice\\helloworldapplication\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34EB6A4-B48C-42BC-91AC-9C64D5CD154C}|HelloWorldApplication.csproj|solutionrelative:myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34EB6A4-B48C-42BC-91AC-9C64D5CD154C}|HelloWorldApplication.csproj|d:\\c#code practice\\helloworldapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34EB6A4-B48C-42BC-91AC-9C64D5CD154C}|HelloWorldApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyClass.cs",
+              "DocumentMoniker": "D:\\c#code practice\\HelloWorldApplication\\MyClass.cs",
+              "RelativeDocumentMoniker": "MyClass.cs",
+              "ToolTip": "D:\\c#code practice\\HelloWorldApplication\\MyClass.cs",
+              "RelativeToolTip": "MyClass.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvwoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:34:20.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#code practice\\HelloWorldApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\c#code practice\\HelloWorldApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:32:39.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
